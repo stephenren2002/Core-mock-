@@ -1,2 +1,0 @@
-56.98|00_01_login_page|Login the Datasite application as Merrill user
-29.11|01_001_create_project|Create project

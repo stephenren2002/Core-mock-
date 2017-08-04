@@ -1,2 +1,0 @@
-83.36|05_ug_001_ask|I am logging in
-19.1|05_ug_001_ask|Ask a question

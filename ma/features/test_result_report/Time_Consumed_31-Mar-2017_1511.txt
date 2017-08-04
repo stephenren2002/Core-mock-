@@ -1,2 +1,0 @@
-63.86|04_sa_06_legalese|I am logging in
-8.4|04_sa_06_legalese|Preview legalese validation

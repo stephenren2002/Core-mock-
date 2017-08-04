@@ -1,4 +1,0 @@
-52.58|05_ug_007_edit_draft_question|I am logging in
-35.42|05_ug_007_edit_draft_question|Edit drafted question and save
-23.39|05_ug_007_edit_draft_question|Edit drafted question and submit
-10.24|05_ug_007_edit_draft_question|Edit drafted question and submit for Approval

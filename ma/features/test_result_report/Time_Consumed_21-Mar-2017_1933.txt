@@ -1,2 +1,0 @@
-68.31|02_014_replace_pl_with_fol|Scenario: I am logging in the application and launching inside Hope page
-10.88|02_014_replace_pl_with_fol|Replace placeholder with Folder

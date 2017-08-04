@@ -1,0 +1,4 @@
+95.9|04_004_12_invite_new_user|I am logging in
+20.52|04_004_12_invite_new_user|Register new user & field validation
+10.18|04_004_12_invite_new_user|Custom invitation template validating
+8.54|04_004_12_invite_new_user|Invite New User

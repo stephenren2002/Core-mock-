@@ -1,0 +1,1 @@
+45.38|04_004_12_invite_new_user|Register new user & Contact Information validation

@@ -24,3 +24,6 @@ Feature: Edit Needs Approval question and submit
   @UG-QAForum @UG-Full @UG-QAEdit
   Scenario: Edit Needs Approval question and submit
     And I select a Needs Approval question for direct submit
+    And I select a Needs Approval question for direct submit
+    And I select a Needs Approval question for direct submit
+    And I select a Needs Approval question for direct submit

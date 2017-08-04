@@ -29,33 +29,14 @@ When(/^I ask a question$/) do
     expect(page).to have_content 'Once a question is submitted, it cannot be deleted.'
     click_on 'Yes'
     sleep 3
-  end
+    # step 'I ask a question'
+    end
 end
 
 Then(/^I should see the question appear in Questions Submitted$/) do
   find('#status').click
   find('.x-combo-list-item', :text => 'Questions Submitted').click
   click_on 'Search'
-=begin
-  questionrow = find(:xpath,"//div[contains(@class,'x-grid3-row')]")
-  lengthofrow = questionrow.length
-  puts lengthofrow
-=end
   within('.x-grid3-body')  {expect(page).to have_content $data['questiontext1']}
-=begin
-  questionrow.each do |qa|
-    qa.find(:xpath,"//div[contains(@class,'x-grid3-cell-inner x-grid3-col-2')]").text
-    expect(qa).to have_content 'Drafting'
-=end
-=begin
-
-
-  within(questionrow)do
-    raja = find(:xpath,"//div[contains(@class,'x-grid3-cell-inner x-grid3-col-2')]").text
-
-    expect(raja).to have_content 'Drafting'
-  end
-
-=end
 end
 

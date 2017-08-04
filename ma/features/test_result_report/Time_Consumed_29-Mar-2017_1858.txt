@@ -1,6 +1,0 @@
-30.2|01_002_edit_proj_info|Edit project Primary Information
-30.16|01_002_edit_proj_info|Edit project details
-30.08|01_002_edit_proj_info|Add project contact
-29.88|00_01_login_page|Login the Datasite application as Merrill user
-6.02|01_001_create_project|Create project
-2.1|01_003_mu_add_fileroom|Merrill user creates File Room

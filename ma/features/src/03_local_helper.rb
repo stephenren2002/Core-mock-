@@ -1,10 +1,3 @@
-#########################################################################################################
-# File : Common File                                                                                    #
-# Author : Jagan                            Created Date : 30th Nov 2016                                #
-# Modified Author : -                       Modified Date : -                                           #
-# Info :   This file covers the commen methods used within the application                              #
-#########################################################################################################
-
 require 'capybara/cucumber'
 require 'yaml'
 class Local_helper

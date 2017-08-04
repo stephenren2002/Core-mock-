@@ -5,25 +5,32 @@
 # Info :                                                                                                #
 #########################################################################################################
 #require '02_data_feeder'
-mu: -t @MerrillUser -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/MU_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+mu: -t @MerrillUser -t ~@wip -f html -o C:/core/ma/features/test_result_report/MU_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-sa: -t @SiteAdmin -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/SA_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+sa: -t @SiteAdmin -t ~@wip -f html -o C:/core/ma/features/test_result_report/SA_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-ugfull: -t @UG-Full -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/UG_Full_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\ 
+ugfull: -t @UG-Full -t ~@wip -f html -o C:/core/ma/features/test_result_report/UG_Full_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-ugqa: -t @UG-QAForum -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/UG_QAForum_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+ugqa: -t @UG-QAForum -t ~@wip -f html -o C:/core/ma/features/test_result_report/UG_QAForum_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-saqa: -t @SA-QAForum -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/SA_QAForum_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+qaedit: -t @UG-QAEdit -t ~@wip -f html -o C:/core/ma/features/test_result_report/UG_QAForum_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-users: -t @Users -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/SA_Users_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+saqa: -t @SA-QAForum -t ~@wip -f html -o C:/core/ma/features/test_result_report/SA_QAForum_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-settings: -t @Settings -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/testresult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+users: -t @Users -t ~@wip -f html -o C:/core/ma/features/test_result_report/SA_Users_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-saindex: -t @SAIndex -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/Index_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+settings: -t @Settings -t ~@wip -f html -o C:/core/ma/features/test_result_report/testresult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-tracker: -t @Tracker -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/Tracker_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+saindex: -t @SAIndex -t ~@wip -f html -o C:/core/ma/features/test_result_report/Index_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
 
-testsa: -t @TestSA -t ~@wip -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/SATest_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\code\ma2\DS6_Project_Trail1\features\all_modules\
+tracker: -t @Tracker -t ~@wip -f html -o C:/core/ma/features/test_result_report/Tracker_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
+
+testsa: -t @TestSA -t ~@wip -f html -o C:/core/ma/features/test_result_report/SATest_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
+
+smoketest: -t @smoketest -t ~@wip -f html -o C:/core/ma/features/test_result_report/smoketest_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.html -r features C:\core\ma\features\all_modules\
+
+mu_json: -t @MerrillUser -t ~@wip -f json -o C:/Users/105983/bamboo-agent-home/xml-data/build-dir/DA-FTD-JOB1/ma/test-reports/MU_TestResult-<%= Time.now.strftime("%d-%b-%Y_%H%M")%>.json -r features C:\Users\105983\bamboo-agent-home\xml-data\build-dir\DA-FTD-JOB1\ma\features\all_modules\
+
 #########################################################
 default:
   --format pretty -r features/support/env.rb -r features/support/plain.rb -r features/step_definitions features
@@ -33,4 +40,4 @@ selenium:
 html_output:
   --format html -r features/support/env.rb -r features/support/plain.rb  -r features/step_definitions features
 
-default-report: --color -f html -o C:/code/ma2/DS6_Project_Trail1/features/test_result_report/<%= Time.now.strftime("%Y%m%d-%H%M%S") %>.html
+default-report: --color -f html -o C:/core/ma/features/test_result_report/<%= Time.now.strftime("%Y%m%d-%H%M%S") %>.html

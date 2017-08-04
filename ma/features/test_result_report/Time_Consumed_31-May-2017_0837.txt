@@ -1,0 +1,10 @@
+30.59|05_sa_005_sa_filtering|Filtering in Q&A forum
+26.47|00_01_login_page|Login the Datasite application as Site Admin
+19.53|00_02_project_select|
+18.04|07_04_001_qa_forum_activity|Run Q&A Forum Activity report
+7.49|05_sa_001_qa_search|Q&A search
+7.07|05_sa_003_answer_see_also|Answer question with a See Also
+6.51|00_02_project_select|Navigating to Q&A Forum Tab
+4.21|05_sa_004_answer_attachment|Answer for a question
+3.52|05_sa_002_qa|To verify the tab
+2.33|07_04_100_close_browser|Close the current active browser

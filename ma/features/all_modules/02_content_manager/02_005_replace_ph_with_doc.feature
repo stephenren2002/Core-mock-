@@ -8,7 +8,7 @@ Feature: Replace placeholder with document
     And I click on "Content Manager" tab
     And I go to the Content Manager tab
 
-  @SiteAdmin
+  @SiteAdmin @smoketest
   Scenario: Replace placeholder with a document by Right Click
     Given I click on Fileroom1 in Left Panel
     And I replace a placeholder with document by right click

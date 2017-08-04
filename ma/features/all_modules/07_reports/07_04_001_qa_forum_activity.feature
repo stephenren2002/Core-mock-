@@ -8,7 +8,7 @@ Feature: Run Q&A Forum Activity report
     When I click on "Reports" tab
     And I go to the Reports tab
 
-  @Reports @SA-QAForum
+  @Reports @SA-QAForum @smoketest
   Scenario: Run Q&A Forum Activity report
     Given I click on "Reports" tab
     And I go to the Reports tab

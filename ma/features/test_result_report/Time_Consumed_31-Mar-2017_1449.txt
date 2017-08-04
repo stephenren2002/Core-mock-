@@ -1,4 +1,0 @@
-64.46|04_sa_08_email_template|I am logging in
-38.5|04_sa_08_email_template|Delete legalese validation
-15.49|04_sa_08_email_template|Create legalese validation
-12.59|04_sa_08_email_template|Edit Email template validation

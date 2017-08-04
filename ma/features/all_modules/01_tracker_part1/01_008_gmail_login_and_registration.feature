@@ -1,4 +1,4 @@
-@MerrillUser
+@MerrillUser @smoketest
 Feature: Visit the Gmail and Click on the link
   Scenario: Login Gmail and Register the Site Admin User
     Given I visit Gmail

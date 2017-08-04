@@ -1,2 +1,0 @@
-47.88|06_04_001_persistent_search|I am logging in
-14.52|06_04_001_persistent_search|Search from persistent search box

@@ -1,2 +1,0 @@
-50.49|05_ug_002_ask_attachment|I am logging in
-38.55|05_ug_002_ask_attachment|Ask question with attachment

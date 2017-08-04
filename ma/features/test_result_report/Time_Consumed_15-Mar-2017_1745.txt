@@ -1,3 +1,0 @@
-38.78|00_01_login_page|Login the Datasite application as Site Admin
-27.96|00_02_project_select|
-6.79|02_001_sa_add_fileroom|Add new fileroom

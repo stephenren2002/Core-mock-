@@ -1,4 +1,0 @@
-68.16|04_sa_08_email_template|I am logging in
-38.55|04_sa_08_email_template|Delete Email Template
-16.27|04_sa_08_email_template|Create Email Template
-11.11|04_sa_08_email_template|Edit Email template validation

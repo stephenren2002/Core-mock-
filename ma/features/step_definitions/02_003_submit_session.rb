@@ -38,3 +38,20 @@ Then(/^I should see the Session Details page$/) do
 end
 
 
+When(/^I click on Revert Needs Attention$/) do
+  within_frame('content') do
+    expect(page).to have_css("abbr[class='needs-attention']") #Validating needs attention status in the session page
+    expect(page).to have_xpath("(//td[contains(text(),'Special Media Recommended')])[1]")
+    #find(:xpath,"//abbr[@class='action-icon']").click #Clicking on hamburger icon
+    #find(:xpath, "//li[@id='action-revert']").click #Clicking on revert icon
+    sleep 3
+    #page.driver.browser.switch_to.alert.accept
+    click_on 'Revert Needs Attention'
+    within(:xpath,"//div[@role='dialog'][4]")do
+    click_on 'Ok'
+    # page.accept_alert
+    sleep 3
+  end
+  end
+  end
+

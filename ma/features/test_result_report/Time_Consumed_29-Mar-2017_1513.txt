@@ -1,2 +1,0 @@
-60.56|02_012_delete_doc|Scenario: I am logging in the application and launching inside Hope page
-32.55|02_012_delete_doc|Delete a document

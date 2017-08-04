@@ -66,3 +66,15 @@ Given(/^I move to header Frame of the page$/) do
   page.driver.browser.switch_to.default_content
   page.driver.browser.switch_to.frame 'header'
 end
+
+ Then(/^I should see all data centers in dashboard$/) do
+  within(:xpath,"//table[@class='dashboard-table']") do
+    i=2
+    for i in 2..3
+      dc=page.find(:xpath,"/html/body/div/div/div[1]/table/tbody/tr[#{i}]/td[2]").text
+      puts dc
+      expect(dc).eql?('US'||'EU')
+    end
+   end
+end
+

@@ -14,7 +14,7 @@ When(/^I click Add Folders$/) do
 end
 
 When(/^I enter text in the Name\(s\) text area$/) do
-sleep 3
+# sleep 3
   within_frame('content') do
     sleep 3
     i=1
@@ -34,12 +34,13 @@ Then(/^I should see my fileroom summary with newly created folder listed$/) do
     expect(page).to have_content 'Primary Contact:'
     expect(page).to have_content 'Auto-Reindex:'
     expect(page).to have_content 'Access Granted to: User Group'
-    within('#contentListing') {find('td', :text => $data['folder5'])}
-    within(find('tr', :text => $data['folder5'])) {find('.doMenu')}
+    within('#contentListing') {find('tr', :text => $data['folder5'])}
+    within(find('tr', :text => $data['folder5'])) {find('.action-icon')}
     page.driver.browser.switch_to.default_content
     page.driver.browser.switch_to.frame 'header'
   end
 end
+
 
 Given(/^I click on Fileroom1 in Left Panel$/) do
   within_frame('menu') do

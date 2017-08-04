@@ -1,0 +1,93 @@
+577.38|02_005_replace_ph_with_doc|Replace placeholder with a document by Right Click
+65.72|02_007_replace_doc_with_doc|Replace placeholder with a document by Green Bar
+65.38|02_007_replace_doc_with_doc|Replace placeholder with a document by Hamburger icon
+63.51|02_007_replace_doc_with_doc|Replace placeholder with a document by Right Click
+62.04|02_005_replace_ph_with_doc|Replace placeholder with a document by Hamburger icon
+61.44|02_013_approve_session|Approve Session
+59.58|02_005_replace_ph_with_doc|Replace placeholder with a document by Green Bar
+56.64|00_02_project_select|
+50.21|00_01_login_page|Login the Datasite application as Site Admin
+49.79|03_sa_04_invitation_template|Delete invitation template
+44.66|02_002_add_folder|Add a folder
+40.52|04_004_04_confirm_deactivation|Confirm deactivation
+39.48|03_sa_07_email_template|Delete email template validation 35596
+38.82|03_sa_06_legalese|Delete legalese validation
+37.06|02_015_copy_document|copy document folder and placeholder
+31.4|02_016_revert_needs_attention|Reverting the needs attention session
+29.41|04_004_06_confirm_reactivation|Confirm reactivation
+28.86|02_004_add_placeholder|Add a placeholder
+27.73|04_004_05_reenable_user|I am logging in
+26.33|02_010_reorder_index|Reorder Index
+26.15|02_014_delete_doc|Delete a document
+25.14|04_004_07_edit_user|Scenario: I am logging in the application and launching inside Hope page
+23.49|04_001_01_add_role|Add UG Role
+21.26|02_006_replace_pl_with_fol|Replace placeholder with Folder by Right Click
+20.9|02_006_replace_pl_with_fol|Replace placeholder with Folder by Green Bar
+20.85|02_008_set_fileroom_security|Change fileroom security
+20.2|02_003_edit_folder_title|Edit folder title
+19.92|02_006_replace_pl_with_fol|Replace placeholder with Folder by Hamburger icon
+19.7|04_004_02_register_user|Register existing User
+18.59|06_03_003_open_doc_view_index|Open doc from View Index
+17.96|04_004_12_invite_new_user|Register new user
+17.91|03_sa_04_invitation_template|Create invitation template
+17.57|03_sa_07_email_template|Edit Email template validation 35592
+16.54|03_sa_04_invitation_template|Edit invitation template
+15.84|06_01_002_viewer_search|Search from viewer
+15.63|02_001_sa_add_fileroom|Add new fileroom
+15.44|06_03_002_view_document|View document
+14.96|03_sa_06_legalese|Create legalese validation
+14.84|06_02_001_add_favorite|Add to Favorites
+14.4|02_011_upload_through_HTML|i am uploading through HTML uploader
+14.4|04_003_01_add_community|Add Community
+14.07|03_sa_04_invitation_template|Copy invitation template validation
+14.06|03_sa_02_edit_settings|Edit Project Settings
+13.38|03_sa_06_legalese|validate duplicate legalese
+12.63|03_sa_07_email_template|Create Email validation 35591
+11.87|03_sa_07_email_template|Copy Email template validation 35593
+11.64|03_sa_04_invitation_template|Preview Invitation template validation
+11.49|04_001_04_add_watermark|Watermark a role
+11.13|03_sa_01_enable_doc_alert_details|Enable details in new document alerts
+10.89|06_04_001_persistent_search|Search from persistent search box
+10.71|03_sa_06_legalese|Edit legalese validation
+10.42|04_004_12_invite_new_user|Custom invitation template validating
+10.39|07_02_002_printer_friendly|Printer Friendly Activity Timeline
+10.36|04_002_01_add_team|Add Team
+9.24|03_sa_07_email_template|Preview Email template validation 35594
+9.13|04_004_01_invite_user|Invite Existing User
+8.67|03_sa_06_legalese|Preview legalese validation 35587
+8.61|04_004_07_edit_user|Edit User's Role
+8.55|04_004_12_invite_new_user|Invite New User
+8.45|03_sa_06_legalese|validate History of legalese
+7.93|07_02_001_activity_timeline|Activity Timeline report
+7.27|04_004_11_error_validation|Error Validation in Add User page without enter all fields clicking on send invite
+7.22|04_001_03_enable_qa_admin|Enable Q&A forum for Admin
+7.21|04_004_11_error_validation|Error Validation in Add User page without enter all fields clicking on save invite
+7.07|07_01_001_activity_by_date|Run Activity by Date report
+6.87|06_01_001_access_new_docs|Access New Documents
+6.37|03_sa_03_logo|Add Logo
+6.13|04_004_09_view_login_history|View Login History
+5.49|02_012_submit_session|Submit session
+5.33|04_004_03_disable_ug_user|Disable User
+5.24|04_004_05_reenable_user|Reactivate User
+5.11|03_sa_03_logo|Remove Logo 35491
+5.09|04_004_10_view_email_history|View Email History
+4.95|04_004_08_view_user_details|View user details
+4.35|04_001_02_edit_role|Edit UG Role
+4.34|04_002_02_edit_teamname|Editing the Team with, Examples (#1)
+3.87|04_002_02_edit_teamname|Editing the Team with, Examples (#4)
+3.85|07_03_001_user_detail|Run User Detail report
+3.82|04_001_02_edit_role|Muliple edit, Examples (#1)
+3.81|02_009_security_report|Run security report
+3.71|04_001_02_edit_role|Muliple edit, Examples (#3)
+3.63|04_001_02_edit_role|Muliple edit, Examples (#2)
+3.61|04_001_02_edit_role|Muliple edit, Examples (#4)
+3.58|04_002_02_edit_teamname|Editing the Team with, Examples (#2)
+3.56|04_002_02_edit_teamname|Editing the Team with, Examples (#3)
+3.34|03_sa_03_logo|Delete Logo 35492
+2.67|06_03_001_view_index|Run View Index
+2.47|04_002_02_edit_teamname|Edit Team
+2.22|06_03_004_filter_view_index|Filter View Index report 58416
+1.67|04_003_02_edit_community|Edit Community
+0.14|07_04_100_close_browser|Close the current active browser
+0.03|02_101_navigate_nxt_tab|I am navigating to User Tab
+0.02|04_101_navigate_nxt_tab|I am navigating to User Tab

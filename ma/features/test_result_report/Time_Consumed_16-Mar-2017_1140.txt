@@ -1,4 +1,0 @@
-55.18|00_02_project_select|
-27.02|00_01_login_page|Login the Datasite application as Site Admin
-23.3|05_ug_001_ask|Ask a question
-3.85|05_ug_002_ask_attachment|Ask question with attachment

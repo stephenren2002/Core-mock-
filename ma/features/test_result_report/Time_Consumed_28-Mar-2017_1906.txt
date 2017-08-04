@@ -1,2 +1,0 @@
-52.19|02_004_add_placeholder|Scenario: I am logging in the application and launching inside Hope page
-44.83|02_004_add_placeholder|Add a placeholder

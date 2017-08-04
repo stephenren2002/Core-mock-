@@ -10,17 +10,17 @@
   browser_Launch: firefox #E.g: ie,firefox,chrome
   datacenter: US #E.g: US,EU,AP
   newproject: YES #E.g: YES,NO
-  Teridion: NO #E.g: YES,NO
+  teridion: t-off #E.g: t-on,t-off
 #<-------------------------Merrill User Credentials------------------------------->
   muusername: dsv6automation #109115
   mupassword: DataSite5 #Jira2016
 #<-------------------------Site Admin Credentials--------------------------------->
-  sausername: dsv6.automation@gmail.com #merrillusers+1@gmail.com
-  sapassword: DataSite6 #Minet2016
+  sausername: dsv6.automation@gmail.com #merrillusers+1@gmail.com #bkrmrll+a@gmail.com
+  sapassword: DataSite6 #Minet2016 #Sunday123
 
 #<-------------------------User Group Credentials--------------------------------->
-  ugusername: dsv6.automation+user@gmail.com #merrillusers+101@gmail.com
-  ugpassword: DataSite4 #Minet2016
+  ugusername: dsv6.automation+user@gmail.com #bkrmrll+b@gmail.com #merrillusers+101@gmail.com
+  ugpassword: DataSite4 #Saturday123 #Minet2016
 
   #<-------------------------Gmail Credentials--------------------------------->
   gmailusername: dsv6.automation@gmail.com
@@ -31,4 +31,5 @@
   stage2: https://ds-stage2-gdw.merrillcorp.com/
   testb:  https://ds-testb-gdw.adminsys.mrll.com/dashboard/
   prod:  https://global.merrillcorp.com/
+
 

@@ -1,0 +1,12 @@
+119.5|01_002_create_project|Create project
+72.51|00_01_login_page|Login the Datasite application as Merrill user
+66.65|01_008_gmail_login_and_registration|Login Gmail and Register the Site Admin User
+45.3|01_004_mu_add_fileroom|Merrill user creates File Room
+18.01|01_006_mu_invite_site_admin|Invite Site Admin
+14.16|01_003_edit_proj_info|Edit project Primary Information
+12.34|01_003_edit_proj_info|Add project contact
+11.86|01_007_mu_logoff_close_bowser|Logging out of browser
+10.93|01_003_edit_proj_info|Edit project details
+7.96|01_005_mu_launch_fileroom|Launch fileroom
+0.09|01_001_Validating_DC|Validating all Data centers are avaialble in dashboard
+0.01|01_100_close_browser|Close the current active browser

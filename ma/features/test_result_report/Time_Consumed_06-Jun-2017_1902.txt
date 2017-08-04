@@ -1,0 +1,39 @@
+55.37|00_02_project_select|
+44.35|05_ug_003_draft_question|Save question draft
+32.17|05_ug_005_needsapproval_question|Submit for Approval question
+24.18|05_ug_001_ask|Ask a question
+24.07|00_01_login_page|Login the Datasite application as Site Admin
+22.02|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+20.56|06_01_002_viewer_search|Search from viewer
+18.05|05_ug_004_edit_draft_question|Edit drafted question and save
+15.38|06_03_003_open_doc_view_index|Open doc from View Index
+15.04|05_ug_002_ask_attachment|Ask question with attachment
+13.96|06_04_001_persistent_search|Search from persistent search box
+13.88|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+13.45|06_03_002_view_document|View document
+12.72|05_ug_007_forumlink|Questions Answered Today link in Q&A forum
+12.34|05_ug_007_forumlink|Total Questions Submitted link in Q&A forum
+12.2|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+12.17|05_ug_007_forumlink|Questions Submitted Today link in Q&A forum
+11.82|05_ug_007_forumlink|Questions Needs Approval Today link in Q&A forum
+11.79|05_ug_007_forumlink|Total Questions Answered link in Q&A forum
+11.75|05_ug_007_forumlink|Total Questions Needs Approval link in Q&A forum
+11.65|05_ug_007_forumlink|Questions Drafting Today link in Q&A forum
+11.21|05_ug_007_forumlink|Toal Questions Asked Today link in Q&A forum
+10.36|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+10.26|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+10.17|06_02_001_add_favorite|Add to Favorites
+9.68|05_ug_004_edit_draft_question|Edit drafted question and submit
+8.91|05_ug_008_filtering|Category Filter in Q&A forum
+8.34|05_ug_004_edit_draft_question|Drafted question and submit
+7.63|05_ug_008_filtering|Questions Submitted Filter in Q&A forum
+7.05|05_ug_008_filtering|Low Priority Filter in Q&A forum
+6.72|05_ug_008_filtering|High Priority Filter in Q&A forum
+6.63|05_ug_008_filtering|Questions Answered Filter in Q&A forum
+6.42|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit
+5.35|05_ug_008_filtering|Medium Priority Filter in Q&A forum
+4.81|05_ug_008_filtering|Questions Needs Approval Filter in Q&A forum
+4.59|05_ug_008_filtering|Questions Drafting Filter in Q&A forum
+3.1|06_03_004_filter_view_index|Filter View Index report 58416
+2.14|06_03_001_view_index|Run View Index
+1.98|06_01_001_access_new_docs|Access New Documents

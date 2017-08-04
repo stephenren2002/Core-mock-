@@ -1,2 +1,0 @@
-53.24|02_009_upload_through_HTML|Scenario: I am logging in the application and launching inside Home page
-16.86|02_009_upload_through_HTML|i am uploading through HTML uploader

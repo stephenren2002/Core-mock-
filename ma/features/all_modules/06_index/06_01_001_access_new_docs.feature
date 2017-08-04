@@ -7,7 +7,7 @@ Feature: Access New Documents
     Given "Site Admin" is on Home Page
 
 
-  @SiteAdmin @SAIndex @UG-Full
+  @SiteAdmin @SAIndex @UG-Full @smoketest
   Scenario: Access New Documents
 #    Given I click on "Index" tab
     And I go to the Index tab

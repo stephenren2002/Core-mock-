@@ -1,0 +1,7 @@
+14.97|04_004_13_invite_new_user|I am logging in
+0.1|04_004_13_invite_new_user|Register new user & Contact Information validation
+0.1|04_004_13_invite_new_user|Register new user & Company Information validation
+0.06|04_004_13_invite_new_user|Register new user & Password Information validation
+0.05|04_004_13_invite_new_user|Register new user & Security Information validation
+0.04|04_004_13_invite_new_user|Custom invitation template validating
+0.04|04_004_13_invite_new_user|Invite New User

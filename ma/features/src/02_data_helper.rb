@@ -1,31 +1,11 @@
-#########################################################################################################
-# File : Common File                                                                                    #
-# Author : Jagan                            Created Date : 30th Nov 2016                                #
-# Modified Author : -                       Modified Date : -                                           #
-# Info :   This file covers the commen methods used within the application                              #
-#########################################################################################################
 require 'capybara/cucumber'
 
 
 #project name MUST contain the uninterrupted string "DSv6 Automation zZz" to be immediately deleted
 def projectName
   dateTime = Time.new
-  "DS Demo DSv6_AutomationUS1 zZz #{dateTime.strftime("%d-%b-%Y")}"
-  #now =Time.now
-  #now.gmtime
-  #"DS Demo DSv6_AutomationRaj zZz 14-Mar-2017"
-  #"DS Demo DSv6_AutomationJan zZz 29-Mar-2017"
-  #global== "DS Demo DSv6_Automation zZz #{dateTime.strftime("%d-%b-%Y %H:%M")}"
- #"DS6_Automation_Ruby"
- #"DS Demo DSv6_Automation zZz 27-Mar-2017"
-  #"DS Demo Raja Oct13 2016"
-  #"DS Demo DSv6_Automation Chennai"
-  #"DS Demo DSv6_AutomationEUGreat zZz 21-Mar-2017"
-  #"Raja-Oct29-RT"
-  #"Raja-Mar2 US-RT"
- #Raja-Aug17-UT"
- #"DS Demo DSv6_AutomationMarch21 zZz"
-
+    "DS Demo DSv6_Automation zZz #{dateTime.strftime("%d-%b-%Y")}"
+    #           "DS Demo DSv6_AutomationUS11 zZz 20-Jul-2017"
 end
 
 def currenTime
@@ -143,18 +123,28 @@ def baseAskQuestionUrl
     case
       when $cnf['datacenter'] == 'US'
         'https://ds6-stage-maw.datasite.com/bidder/forum/add_question_prompt.do?projectId='
-      when $cnf['datacenter'] =='EU'
+      when ($cnf['datacenter'] == 'EU') && ($cnf['teridion'] == 't-off')
         'https://ds6-eumastage-maw.datasite.com/bidder/forum/add_question_prompt.do?projectId='
+      when $cnf['teridion'] == 't-on'
+        'https://eu1w-stage.datasite.com/bidder/forum/add_question_prompt.do?projectId='
     end
+
+
+  elsif $cnf['environment'] == 'stage2'
+    case
+    when $cnf['datacenter'] == 'US'
+      'https://ds6-stage2-maw.merrillcorp.com/bidder/forum/add_question_prompt.do?projectId='
+  end
 
   elsif $cnf['environment'] == 'prod'
     case
       when $cnf['datacenter'] == 'US'
         'https://us1.merrillcorp.com/bidder/forum/add_question_prompt.do?projectId='
-      when $cnf['datacenter'] == 'EU'
+      when ($cnf['datacenter'] == 'EU') && ($cnf['teridion'] == 't-off')
         'https://eu1.merrillcorp.com/bidder/forum/add_question_prompt.do?projectId='
+      when $cnf['teridion'] == 't-on'
+        'https://eu1w.merrillcorp.com/bidder/forum/add_question_prompt.do?projectId='
     end
-
   end
 end
 
@@ -170,16 +160,25 @@ def baseSeeAlsoUrl
     case
       when $cnf['datacenter'] == 'US'
         'https://ds6-stage-maw.datasite.com/bidder/forum/see_also_prompt.do?projectId='
-      when $cnf['datacenter'] == 'EU'
+      when ($cnf['datacenter'] == 'EU') && ($cnf['teridion'] == 't-off')
         'https://ds6-eumastage-maw.datasite.com/bidder/forum/see_also_prompt.do?projectId='
+      when $cnf['teridion'] == 't-on'
+        'https://eu1w-stage.datasite.com/bidder/forum/see_also_prompt.do?projectId='
+    end
+  elsif $cnf['environment'] == 'stage2'
+    case
+      when $cnf['datacenter'] == 'US'
+        'https://ds6-stage2-maw.merrillcorp.com/bidder/forum/see_also_prompt.do?projectId='
     end
 
   elsif $cnf['environment'] == 'prod'
     case
       when $cnf['datacenter'] == 'US'
         'https://us1.merrillcorp.com/bidder/forum/see_also_prompt.do?projectId='
-      when $cnf['datacenter'] == 'EU'
+      when ($cnf['datacenter'] == 'EU') && ($cnf['teridion'] == 't-off')
         'https://eu1.merrillcorp.com/bidder/forum/see_also_prompt.do?projectId='
+      when $cnf['teridion'] == 't-on'
+        'https://eu1w.merrillcorp.com/bidder/forum/see_also_prompt.do?projectId='
     end
   end
 end

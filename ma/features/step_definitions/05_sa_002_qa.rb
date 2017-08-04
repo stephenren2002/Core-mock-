@@ -10,7 +10,11 @@ find('.x-combo-list-item', :text => 'Questions Submitted').click
 click_on 'Search'
 within('.x-grid3-body') {
   find('tr', :text => 'Submitted', :match => :first).click
-}
+  }
+  itemname = find(:xpath,"//div[@hidefocus='on']/span[@class='questionText']").text
+  puts itemname
+  $itemname = itemname.split(' ')[0]
+  puts $itemname
 end
 
 When(/^I answer the selected question$/) do

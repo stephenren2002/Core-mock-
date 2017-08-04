@@ -13,5 +13,3 @@ Feature: Ask a question
     And I go to the Q&A Forum tab
     And  I ask a question
     Then I should see the question appear in Questions Submitted
-
-  

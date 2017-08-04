@@ -116,3 +116,10 @@ Then(/^I should see my placeholder with the Replace (.*) type listed$/) do |rep|
 end
 
 
+
+
+# //td[@class='ellipsis']//a[text()='FileRoom5']/../../td[7]
+#
+# xpath to expand fileroom
+#
+# //a[text()='FileRoom5']/../../img

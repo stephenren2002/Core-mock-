@@ -1,2 +1,0 @@
-54.1|02_008_reorder_index|Scenario: I am logging in the application and launching inside Hope page
-42.47|02_008_reorder_index|Reorder Index

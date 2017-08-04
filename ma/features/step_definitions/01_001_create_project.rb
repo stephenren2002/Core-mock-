@@ -93,10 +93,20 @@ When(/^I enter "([^"]*)" as the Credit Check Cap$/) do |ccCap|
   fill_in 'creditCheckCap', with: ccCap
 end
 
+And(/^I check teridion for teridion project$/) do
+  teri = $cnf['teridion']
+  if teri=='t-on'
+    check 'teridionProject'
+	else
+    puts "This is not a Teridion Project"
+  end
+end
+
 When(/^I click Submit \(tracker\)$/) do
-  # sleep(5.to_i) #pause seems to prevent the "person does not exist in current dc" popup
-  sleep 3
-  find('#bValidateAndSubmit').click
+  #sleep(5.to_i) #pause seems to prevent the "person does not exist in current dc" popup
+    sleep 3
+  # find('#bValidateAndSubmit').click
+  click_on 'bValidateAndSubmit'
 end
 
 When(/^I check the New Project, Continue checkbox and Submit$/) do
@@ -109,3 +119,4 @@ expect(page).to have_content('CRITICAL NOTES')
 expect(page).to have_content('PROJECT DETAILS')
 expect(page).to have_content('ASSET SUMMARY')
 end
+

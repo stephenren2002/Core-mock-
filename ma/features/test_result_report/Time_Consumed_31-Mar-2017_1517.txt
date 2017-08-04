@@ -1,2 +1,0 @@
-70.2|04_sa_06_legalese|I am logging in
-9.11|04_sa_06_legalese|Preview legalese validation

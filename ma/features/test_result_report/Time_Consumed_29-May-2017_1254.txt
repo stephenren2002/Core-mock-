@@ -1,0 +1,4 @@
+101.43|04_004_13_invitenewuser|I am logging in
+10.26|04_004_13_invitenewuser|Custom invitation template validating
+8.88|04_004_13_invitenewuser|Invite New User
+0.05|04_004_13_invitenewuser|Register new user & field validation

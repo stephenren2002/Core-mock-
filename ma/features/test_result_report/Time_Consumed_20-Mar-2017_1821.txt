@@ -1,9 +1,0 @@
-43.13|05_ug_026_filtering|I am logging in
-12.04|05_ug_026_filtering|Questions Submitted Filter in Q&A forum
-10.12|05_ug_026_filtering|High Priority Filter in Q&A forum
-8.4|05_ug_026_filtering|Low Priority Filter in Q&A forum
-8.29|05_ug_026_filtering|Category Filter in Q&A forum
-6.64|05_ug_026_filtering|Questions Answered Filter in Q&A forum
-5.19|05_ug_026_filtering|Medium Priority Filter in Q&A forum
-4.58|05_ug_026_filtering|Questions Drafting Filter in Q&A forum
-4.55|05_ug_026_filtering|Questions Needs Approval Filter in Q&A forum

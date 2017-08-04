@@ -1,2 +1,0 @@
-51.63|05_ug_009_edit_draft_question|I am logging in
-23.45|05_ug_009_edit_draft_question|Edit drafted question and submit

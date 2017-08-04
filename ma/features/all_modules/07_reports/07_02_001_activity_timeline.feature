@@ -9,7 +9,7 @@ Feature: Run Activity Timeline report
     When I click on "Reports" tab
     And I go to the Reports tab
 
-  @SiteAdmin @Reports
+  @SiteAdmin @Reports @smoketest
   Scenario: Activity Timeline report
     Given I run Activity Timeline for all dates, all roles
     Then I should see the Activity Timeline report display

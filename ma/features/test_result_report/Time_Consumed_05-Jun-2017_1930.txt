@@ -1,0 +1,4 @@
+59.9|01_002_create_project|Create project
+50.89|00_01_login_page|Login the Datasite application as Merrill user
+2.04|01_003_edit_proj_info|Edit project Primary Information
+0.14|01_001_Validating_DC|Validating all Data centers are avaialble in dashboard

@@ -1,2 +1,0 @@
-57.5|05_sa_001_qa_search|I am logging in
-30.04|05_sa_001_qa_search|Q&A search

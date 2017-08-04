@@ -1,10 +1,3 @@
-#########################################################################################################
-# File : All Feature Files                                                                              #
-# Author : Jagan                            Created Date : 30th Nov 2016                                #
-# Modified Author : -                       Modified Date : -                                           #
-# Info :                                                                                                #
-#########################################################################################################
-
 #<**************************Variables Group***************************************>
 
 #<-----------------------------Index---------------------------------------------->
@@ -23,13 +16,15 @@ NeedsApprovaledited2: This Question has been submitted for admin approval and it
 answertext1: Answering1 for Question
 answertext2: Verfied
 answertext3: Please see this document.
-
+answertext4: This is for the draft answer
+answertext5: This is an Edited draft answer
 #<-------------------------Content Manager---------------------------------------->
 fileroom1: FileRoom1
 fileroom2: FileRoom2
 fileroom3: FileRoom3
 fileroom4: FileRoom4
 fileroom5: FileRoom5
+fileroom6: FileRoom6
 
 folder1: Folder1
 folder2: Folder2
@@ -46,8 +41,8 @@ placeholder5: Placeholder5
 placeholder6: Placeholder6
 placeholder7: Placeholder7
 
-
-
+newcategoryname: TestCategory
+updatecategoryname: EditTestCategory
 
 
 
@@ -55,11 +50,24 @@ placeholder7: Placeholder7
 
 replaceddoc3title: Placeholder1 replaced with History
 
+
+
+
+editedFileroom6: FileRoom6_edited
+editedFileroom6.1: FileRoom6_RP_RC_edit
+editedFileroom6.2: FileRoom6_RP_actClick_edit
+editedFileroom6.3: FileRoom6_RP_greenbar_edit
+
+
+
 #<-------------------------Users---------------------------------------->
 
 ugrole1: UG_Role1
 ugrole2: UG_Role2
 ugdefrole: User Group
+
+
+newuser: dsv6.automation+newuser80@gmail.com
 
 sadefrole: Site Admin
 
@@ -72,6 +80,8 @@ community2: Community2
 #<----------------------------Reports------------------------------------------>
 #<----------------------------Settings------------------------------------------>
 legalese1: I am being granted access to the information contained on this site in order to review certain information of Sample Company or their affiliates. I understand that my access to this site is subject to the following conditions.
+
+legalese2: Edited content I am being granted access to the information contained on this site in order to review certain information of Sample Company or their affiliates. I understand that my access to this site is subject to the following conditions.
 
 
 Test:           1.	All of the information contained on this site is considered confidential, and is subject to the Confidentiality Agreement entered into between [projectcompany]and the company that I represent. I will maintain the information in confidence and will not disclose any of the information to others except as expressly permitted by the Confidentiality Agreement.

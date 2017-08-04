@@ -1,4 +1,0 @@
-63.78|04_sa_04_invitation_template|I am logging in
-44.57|04_sa_04_invitation_template|Delete invitation template
-16.2|04_sa_04_invitation_template|Create invitation template
-13.1|04_sa_04_invitation_template|Edit invitation template

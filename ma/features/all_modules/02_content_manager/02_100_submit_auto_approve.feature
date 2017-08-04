@@ -9,6 +9,7 @@ Feature: Submit and Auto-approve
 		And I click on "Content Manager" tab
 		And I go to the Content Manager tab
 
+#	@SiteAdmin
 	Scenario: Submit and Auto-approve
 		Given I click Session Locks in the left pane
 		And I click on my Open session

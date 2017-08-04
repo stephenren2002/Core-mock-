@@ -1,4 +1,0 @@
-85.02|02_004_add_placeholder|Add a placeholder
-39.81|00_01_login_page|Login the Datasite application as Site Admin
-17.25|00_02_project_select|
-2.04|02_005_replace_ph_with_doc|Replace placeholder with a document by Right Click

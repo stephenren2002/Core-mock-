@@ -1,0 +1,4 @@
+82.34|03_sa_09_filtering_template|I am logging in
+4.57|03_sa_09_filtering_template|Filter on invitation template 35583
+4.13|03_sa_09_filtering_template|Filter on Legalese template
+3.95|03_sa_09_filtering_template|filter on Email template

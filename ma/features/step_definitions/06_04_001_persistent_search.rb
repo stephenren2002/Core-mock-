@@ -8,6 +8,7 @@
 When(/^I do search in the project's search box$/) do
   fill_in 'searchString', with: $data['searchTerm']
   find("input[name='searchString']").send_keys :enter
+  #find("input[name='searchString']").set(name).native.send_keys(:return)
   expect(page).to have_css('#searchForm') 
   expect(page).to have_css('table.dataset')
 end

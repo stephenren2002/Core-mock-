@@ -8,7 +8,7 @@ Feature: Add a folder
 		And I click on "Content Manager" tab
 		Given I go to the Content Manager tab
 
-	@SiteAdmin
+	@SiteAdmin @smoketest
 	Scenario: Add a folder
 		Given I click on the fileroom1 in right panel
 		And I click the Add dropdown

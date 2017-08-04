@@ -1,2 +1,0 @@
-44.73|05_ug_033_categoryfilter|I am logging in
-28.78|05_ug_033_categoryfilter|Filtering in Q&A forum

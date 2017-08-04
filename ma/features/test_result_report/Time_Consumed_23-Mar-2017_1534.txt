@@ -1,2 +1,0 @@
-51.56|02_003_edit_folder_title|Scenario: I am logging in the application and launching inside Hope page
-9.59|02_003_edit_folder_title|Edit folder title

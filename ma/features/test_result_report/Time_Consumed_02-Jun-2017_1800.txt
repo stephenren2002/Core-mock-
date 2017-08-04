@@ -1,0 +1,1 @@
+7.94|04_004_12_invite_new_user|Register new user & Company Information validation

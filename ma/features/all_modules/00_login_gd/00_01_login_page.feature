@@ -1,5 +1,5 @@
 Feature: I am launching the stage url and trying to login through
-  @MerrillUser @Tracker
+  @MerrillUser @Tracker @smoketest
   Scenario: Login the Datasite application as Merrill user
     Given I am in Datasite Login Page
     When I am logging in as a "Merrill User"

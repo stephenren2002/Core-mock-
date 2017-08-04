@@ -30,7 +30,7 @@ When(/^I ask a question with an attachment$/) do
 end
 
 Then(/^I should see the question with attachment appear in Questions Submitted$/) do
-	sleep 4
+	sleep 5
   find('#status').click
   find('.x-combo-list-item', :text => 'Questions Submitted').click
   click_on 'Search'

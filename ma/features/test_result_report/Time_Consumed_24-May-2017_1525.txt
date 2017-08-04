@@ -1,0 +1,8 @@
+96.42|01_002_create_project|Create project
+51.42|00_01_login_page|Login the Datasite application as Merrill user
+9.44|01_003_edit_proj_info|Edit project Primary Information
+8.0|01_003_edit_proj_info|Add project contact
+7.71|01_004_mu_add_fileroom|Merrill user creates File Room
+7.1|01_003_edit_proj_info|Edit project details
+2.03|01_005_mu_launch_fileroom|Launch fileroom
+0.12|01_001_Validating_DC|Validating all Data centers are avaialble in dashboard

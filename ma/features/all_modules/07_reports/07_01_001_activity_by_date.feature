@@ -7,7 +7,7 @@ Feature: Activity by Date report
     Given "Site Admin" is on Home Page
     When I click on "Reports" tab
 
-  @SiteAdmin @Reports
+  @SiteAdmin @Reports @smoketest
   Scenario: Run Activity by Date report
     When I go to the Reports tab
     And I run Activity by Date for all dates

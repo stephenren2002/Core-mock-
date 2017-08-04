@@ -1,0 +1,2 @@
+7.45|04_004_13_invitenewuser|Register new user & field validation
+50.07|04_004_13_invitenewuser|Register new user & field validation

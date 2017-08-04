@@ -1,0 +1,10 @@
+44.64|05_ug_005_ask_question|I am logging in
+42.12|05_ug_005_ask_question|Ask Question from QA Forum tab
+35.42|05_ug_005_ask_question|Draft a Question from QA forum tab
+33.06|05_ug_005_ask_question|Submit a question for approval from QA forum tab
+33.04|05_ug_005_ask_question|Submit a question for approval from Viewer
+32.98|05_ug_005_ask_question|Draft a Question from Index
+32.89|05_ug_005_ask_question|Draft a Question from Viewer
+30.28|05_ug_005_ask_question|Ask Question from viewer
+30.27|05_ug_005_ask_question|Ask Question from index
+8.04|05_ug_005_ask_question|Submit a question for approval from Index

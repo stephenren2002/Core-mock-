@@ -1,0 +1,33 @@
+35.34|05_ug_033_categoryfilter|Filtering in Q&A forum
+27.54|00_01_login_page|Login the Datasite application as Site Admin
+24.87|05_ug_003_draft_question|Save question draft
+17.57|05_ug_007_edit_draft&save_question|Edit drafted question and save
+17.54|05_ug_012_needsapproval_question|Submit for Approval question
+17.06|05_ug_019_stlink|Forum link in Q&A forum
+16.98|00_02_project_select|
+16.43|05_ug_013_edit_SOP&Save_question|Edit Submit for Approval question and save
+14.76|05_ug_016_forumlink|Forum link in Q&A forum
+13.35|05_ug_018_ntlink|Forum link in Q&A forum
+13.07|05_ug_024_tqslink|Forum link in Q&A forum
+12.46|05_ug_022_tqdlink|Forum link in Q&A forum
+12.36|05_ug_023_tqnlink|Forum link in Q&A forum
+12.35|05_ug_017_dtlink|Forum link in Q&A forum
+12.26|05_ug_002_ask_attachment|Ask question with attachment
+12.03|05_ug_025_tqalink|Forum link in Q&A forum
+11.9|05_ug_020_atlink|Forum link in Q&A forum
+11.89|05_ug_001_ask|Ask a question
+10.82|05_ug_021_tqalink|Forum link in Q&A forum
+10.49|05_ug_008_edit_draft&SOP_question|Edit drafted question and submit for Approval
+10.07|05_ug_026_filtering|Filtering in Q&A forum
+9.73|05_ug_009_edit_draft_question|Edit drafted question and submit
+9.28|05_ug_014_edit_NeedsApproval_question|Edit Needs Approval question and submit
+8.32|05_ug_011_draft&Submit_question|Edit drafted question and save
+7.51|05_ug_010_draft&SOP_question|Edit drafted question and save
+6.7|05_ug_028_needsfilter|Filtering in Q&A forum
+6.43|05_ug_015_editSOP&Sub_question|Edit Needs Approval question and submit
+5.53|05_ug_027_draftfilter|Filtering in Q&A forum
+5.46|00_02_project_select|Navigating to Q&A Forum Tab
+4.93|05_ug_031_mediumfilter|Filtering in Q&A forum
+4.91|05_ug_029_answerfilter|Filtering in Q&A forum
+4.73|05_ug_032_highfilter|Filtering in Q&A forum
+4.73|05_ug_030_lowfilter|Filtering in Q&A forum

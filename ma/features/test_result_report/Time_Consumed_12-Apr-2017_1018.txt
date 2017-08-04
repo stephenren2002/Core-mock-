@@ -1,0 +1,7 @@
+21.09|00_01_login_page|Login the Datasite application as Site Admin
+17.76|00_02_project_select|
+17.08|05_ug_001_ask|Ask a question
+15.32|05_ug_004_edit_draft_question|Edit drafted question and save
+5.36|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+0.49|05_ug_002_ask_attachment|Ask question with attachment
+0.43|05_ug_003_draft_question|Save question draft

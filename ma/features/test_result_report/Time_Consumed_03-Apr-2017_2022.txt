@@ -1,0 +1,7 @@
+57.58|04_sa_06_legalese|I am logging in
+38.68|04_sa_06_legalese|Delete legalese validation
+17.4|04_sa_06_legalese|Create legalese validation
+10.74|04_sa_06_legalese|Edit legalese validation
+8.64|04_sa_06_legalese|validate History of legalese
+8.25|04_sa_06_legalese|Preview legalese validation 35587
+8.2|04_sa_06_legalese|validate duplicate legalese

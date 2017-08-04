@@ -1,0 +1,43 @@
+63.3|04_sa_03_logo|I am logging in
+6.16|04_sa_03_logo|Add Logo
+5.26|04_sa_03_logo|Delete Logo 35492
+4.91|04_sa_03_logo|Remove Logo 35491
+52.82|00_02_project_select|
+43.36|05_ug_004_edit_draft_question|Edit drafted question and save
+42.13|05_ug_002_ask_attachment|Ask question with attachment
+39.34|00_01_login_page|Login the Datasite application as Site Admin
+36.44|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+31.5|05_ug_003_draft_question|Save question draft
+16.67|05_ug_001_ask|Ask a question
+8.25|05_ug_004_edit_draft_question|Edit drafted question and submit
+5.38|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+5.04|05_ug_007_forumlink|Total Questions Answered link in Q&A forum
+5.0|05_ug_007_forumlink|Total Questions Submitted link in Q&A forum
+4.03|05_ug_007_forumlink|Toal Questions Asked Today link in Q&A forum
+4.02|05_ug_007_forumlink|Questions Submitted Today link in Q&A forum
+4.02|05_ug_007_forumlink|Questions Drafting Today link in Q&A forum
+4.01|05_ug_007_forumlink|Questions Answered Today link in Q&A forum
+4.01|05_ug_007_forumlink|Questions Needs Approval Today link in Q&A forum
+3.05|05_ug_007_forumlink|Total Questions Needs Approval link in Q&A forum
+3.03|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+2.04|06_03_004_filter_view_index|Filter View Index report 58416
+2.04|05_ug_008_filtering|Low Priority Filter in Q&A forum
+2.03|05_ug_008_filtering|Questions Submitted Filter in Q&A forum
+2.03|06_01_001_access_new_docs|Access New Documents
+2.03|06_03_001_view_index|Run View Index
+2.03|05_ug_008_filtering|Questions Needs Approval Filter in Q&A forum
+2.02|06_03_003_open_doc_view_index|Open doc from View Index
+2.02|05_ug_008_filtering|Questions Drafting Filter in Q&A forum
+2.02|06_01_002_viewer_search|Search from viewer
+2.02|05_ug_008_filtering|Category Filter in Q&A forum
+2.02|05_ug_008_filtering|Medium Priority Filter in Q&A forum
+2.02|05_ug_008_filtering|Questions Answered Filter in Q&A forum
+2.02|06_04_001_persistent_search|Search from persistent search box
+2.01|05_ug_008_filtering|High Priority Filter in Q&A forum
+2.01|06_02_001_add_favorite|Add to Favorites
+2.01|06_03_002_view_document|View document
+0.04|05_ug_004_edit_draft_question|Drafted question and submit
+0.03|05_ug_005_needsapproval_question|Submit for Approval question
+0.03|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+0.03|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+0.03|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit

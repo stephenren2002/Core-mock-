@@ -1,0 +1,4 @@
+52.2|01_001_create_project|Create project
+30.21|01_002_edit_proj_info|Edit project Primary Information
+30.18|01_002_edit_proj_info|Edit project details
+8.75|00_01_login_page|Login the Datasite application as Merrill user

@@ -1,0 +1,13 @@
+38.19|04_sa_06_legalese|Delete legalese validation
+27.81|00_01_login_page|Login the Datasite application as Site Admin
+17.68|00_02_project_select|
+15.57|04_sa_04_create_invitation_template|Create invitation template
+14.74|04_sa_06_legalese|Create legalese validation
+13.76|04_sa_05_edit_invitation_template|Edit invitation template
+13.59|04_sa_02_edit_settings|Edit Project Settings
+12.23|04_sa_01_enable_doc_alert_details|Enable details in new document alerts
+10.53|04_sa_06_legalese|Edit legalese validation
+8.62|04_sa_06_legalese|validate History of legalese
+8.6|04_sa_06_legalese|validate duplicate legalese
+6.51|04_sa_03_add_logo|Add Logo
+2.68|00_02_project_select|Navigating to Settings Tab

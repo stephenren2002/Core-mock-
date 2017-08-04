@@ -1,0 +1,6 @@
+39.91|00_01_login_page|Login the Datasite application as Site Admin
+30.17|02_004_add_placeholder|Add a placeholder
+17.48|00_02_project_select|
+8.73|02_005_replace_ph_with_doc|Replace placeholder with a document by Right Click
+2.04|02_005_replace_ph_with_doc|Replace placeholder with a document by Hamburger icon
+2.03|02_005_replace_ph_with_doc|Replace placeholder with a document by Green Bar

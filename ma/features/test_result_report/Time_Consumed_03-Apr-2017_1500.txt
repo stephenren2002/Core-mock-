@@ -1,0 +1,32 @@
+46.54|05_ug_003_draft_question|Save question draft
+31.79|05_ug_005_needsapproval_question|Submit for Approval question
+23.12|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+21.98|00_01_login_page|Login the Datasite application as Site Admin
+18.74|05_ug_004_edit_draft_question|Edit drafted question and save
+15.49|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+15.33|05_ug_001_ask|Ask a question
+15.05|05_ug_002_ask_attachment|Ask question with attachment
+14.23|00_02_project_select|
+12.42|05_ug_007_forumlink|Total Questions Submitted link in Q&A forum
+12.19|05_ug_007_forumlink|Questions Submitted Today link in Q&A forum
+12.06|05_ug_007_forumlink|Questions Needs Approval Today link in Q&A forum
+11.96|05_ug_007_forumlink|Total Questions Needs Approval link in Q&A forum
+11.67|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+11.65|05_ug_008_filtering|Category Filter in Q&A forum
+11.58|05_ug_007_forumlink|Questions Answered Today link in Q&A forum
+11.55|05_ug_007_forumlink|Total Questions Answered link in Q&A forum
+11.43|05_ug_007_forumlink|Questions Drafting Today link in Q&A forum
+10.46|05_ug_007_forumlink|Toal Questions Asked Today link in Q&A forum
+10.39|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+10.31|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+9.73|05_ug_004_edit_draft_question|Edit drafted question and submit
+8.46|05_ug_008_filtering|Questions Submitted Filter in Q&A forum
+8.32|05_ug_004_edit_draft_question|Drafted question and submit
+7.87|05_ug_008_filtering|Low Priority Filter in Q&A forum
+7.25|00_02_project_select|Navigating to Q&A Forum Tab
+7.02|05_ug_008_filtering|High Priority Filter in Q&A forum
+6.33|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit
+5.4|05_ug_008_filtering|Medium Priority Filter in Q&A forum
+4.78|05_ug_008_filtering|Questions Needs Approval Filter in Q&A forum
+4.59|05_ug_008_filtering|Questions Drafting Filter in Q&A forum
+4.49|05_ug_008_filtering|Questions Answered Filter in Q&A forum

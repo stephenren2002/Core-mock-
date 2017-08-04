@@ -1,0 +1,5 @@
+# copy to ~/.curlrc with credentials when on merrill network
+proxy = inetproxy:80
+proxy-user = kaltepe:password
+proxy-ntlm = true
+noproxy = localhost,127.0.0.1,dev1

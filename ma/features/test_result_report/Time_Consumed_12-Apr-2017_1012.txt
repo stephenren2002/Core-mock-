@@ -1,0 +1,82 @@
+69.61|03_004_05_reenable_user|I am logging in
+68.48|03_004_07_edit_user|Scenario: I am logging in the application and launching inside Hope page
+62.68|00_02_project_select|
+47.66|02_002_add_folder|Add a folder
+45.04|04_sa_04_invitation_template|Delete invitation template
+42.02|02_013_copy_document|copy document folder and placeholder
+39.75|04_sa_06_legalese|Delete legalese validation
+38.81|04_sa_08_email_template|Delete Email Template
+38.32|02_005_replace_ph_with_doc|Replace placeholder with a document by Right Click
+37.15|00_01_login_page|Login the Datasite application as Site Admin
+32.64|02_004_add_placeholder|Add a placeholder
+32.54|06_04_001_persistent_search|Search from persistent search box
+31.91|03_004_04_confirm_deactivation|Confirm deactivation
+31.05|02_008_reorder_index|Reorder Index
+29.81|02_012_delete_doc|Delete a document
+29.66|03_004_06_confirm_reactivation|Confirm reactivation
+28.97|02_005_replace_ph_with_doc|Replace placeholder with a document by Green Bar
+28.16|02_005b_replace_doc_with_doc|Replace placeholder with a document by Right Click
+27.45|02_005_replace_ph_with_doc|Replace placeholder with a document by Hamburger icon
+27.2|02_005b_replace_doc_with_doc|Replace placeholder with a document by Green Bar
+26.74|02_005b_replace_doc_with_doc|Replace placeholder with a document by Hamburger icon
+25.31|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Right Click
+25.12|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Green Bar
+24.27|02_003_edit_folder_title|Edit folder title
+23.89|02_006_set_fileroom_security|Change fileroom security
+23.6|03_004_02_register_user|Register User
+23.58|06_01_002_viewer_search|Search from viewer
+23.52|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Hamburger icon
+23.0|03_001_01_add_role|Add UG Role
+22.33|06_03_002_view_document|View document
+20.65|06_03_003_open_doc_view_index|Open doc from View Index
+18.41|04_sa_04_invitation_template|Create invitation template
+17.32|02_001_sa_add_fileroom|Add new fileroom
+16.96|02_009_upload_through_HTML|i am uploading through HTML uploader
+16.29|06_02_001_add_favorite|Add to Favorites
+15.87|04_sa_06_legalese|Create legalese validation
+15.69|03_003_01_add_community|Add Community
+15.1|04_sa_04_invitation_template|Edit invitation template
+14.96|04_sa_02_edit_settings|Edit Project Settings
+14.71|04_sa_01_enable_doc_alert_details|Enable details in new document alerts
+13.77|04_sa_06_legalese|Edit legalese validation
+13.55|02_011_approve_session|Approve Session
+13.29|04_sa_08_email_template|Create Email Template
+12.89|03_001_04_add_watermark|Watermark a role
+12.0|07_01_001_activity_by_date|Run Activity by Date report
+11.96|04_sa_08_email_template|Edit Email template validation
+11.95|04_sa_06_legalese|validate duplicate legalese
+11.89|03_002_01_add_team|Add Team
+10.47|03_004_07_edit_user|Edit User's Role
+10.02|07_02_002_printer_friendly|Printer Friendly Activity Timeline
+9.69|03_004_01_invite_user|Invite User
+9.64|06_01_001_access_new_docs|Access New Documents
+9.44|04_sa_06_legalese|Preview legalese validation 35587
+9.2|04_sa_06_legalese|validate History of legalese
+8.81|03_001_03_enable_qa_admin|Enable Q&A forum for Admin
+7.91|04_sa_03_logo|Add Logo
+7.74|03_004_09_view_login_history|View Login History
+7.56|07_02_001_activity_timeline|Activity Timeline report
+7.28|02_010_submit_session|Submit session
+7.28|03_003_02_edit_community|Edit Community
+6.52|03_004_10_view_email_history|View Email History
+6.35|03_004_05_reenable_user|Reactivate User
+6.29|03_004_03_disable_ug_user|Disable User
+5.56|03_001_02_edit_role|Edit UG Role
+5.52|03_004_08_view_user_details|View user details
+5.38|04_sa_03_logo|Remove Logo 35491
+4.68|04_sa_03_logo|Delete Logo 35492
+4.48|03_001_02_edit_role|Muliple edit, Examples (#4)
+4.31|03_001_02_edit_role|Muliple edit, Examples (#3)
+4.22|03_001_02_edit_role|Muliple edit, Examples (#1)
+4.16|03_001_02_edit_role|Muliple edit, Examples (#2)
+4.09|07_03_001_user_detail|Run User Detail report
+4.07|02_007_security_report|Run security report
+4.04|03_002_02_edit_teamname|Editing the Team with, Examples (#1)
+3.89|03_002_02_edit_teamname|Editing the Team with, Examples (#4)
+3.87|03_002_02_edit_teamname|Editing the Team with, Examples (#3)
+3.81|03_002_02_edit_teamname|Editing the Team with, Examples (#2)
+3.65|06_03_001_view_index|Run View Index
+3.46|03_002_02_edit_teamname|Edit Team
+2.59|06_03_004_filter_view_index|Filter View Index report 58416
+0.03|02_101_navigate_nxt_tab|I am navigating to User Tab
+0.03|03_101_navigate_nxt_tab|I am navigating to User Tab

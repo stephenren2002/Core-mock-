@@ -1,0 +1,32 @@
+36.39|05_ug_002_ask_attachment|Ask question with attachment
+31.87|05_ug_003_draft_question|Save question draft
+30.58|05_ug_004_edit_draft_question|Edit drafted question and submit
+13.89|06_02_001_add_favorite|Add to Favorites
+12.59|05_ug_020_tqalink|Forum link in Q&A forum
+12.1|05_ug_013_ntlink|Forum link in Q&A forum
+12.07|05_ug_017_tqdlink|Forum link in Q&A forum
+12.07|05_ug_012_dtlink|Forum link in Q&A forum
+11.9|05_ug_015_atlink|Forum link in Q&A forum
+11.88|05_ug_018_tqnlink|Forum link in Q&A forum
+11.48|06_03_003_open_doc_view_index|Open doc from View Index
+11.44|06_03_002_view_document|View document
+11.11|05_ug_019_tqslink|Forum link in Q&A forum
+10.92|05_ug_030_forumlink|Forum link in Q&A forum
+10.88|05_ug_014_stlink|Forum link in Q&A forum
+10.07|06_04_001_persistent_search|Search from persistent search box
+9.85|05_ug_016_tqalink|Forum link in Q&A forum
+9.31|05_ug_001_ask|Ask a question
+9.01|00_01_login_page|Login the Datasite application as Site Admin
+8.58|06_01_002_viewer_search|Search from viewer
+7.63|05_ug_008_answerfilter|Filtering in Q&A forum
+7.53|05_ug_010_mediumfilter|Filtering in Q&A forum
+7.46|05_ug_007_needsfilter|Filtering in Q&A forum
+7.32|05_ug_006_draftfilter|Filtering in Q&A forum
+7.19|05_ug_009_lowfilter|Filtering in Q&A forum
+6.5|05_ug_011_highfilter|Filtering in Q&A forum
+6.33|05_ug_005_filtering|Filtering in Q&A forum
+6.3|05_ug_021_categoryfilter|Filtering in Q&A forum
+4.33|00_02_project_select|
+1.98|06_01_001_access_new_docs|Access New Documents
+1.69|06_03_001_view_index|Run View Index
+1.53|06_03_004_filter_view_index|Filter View Index report 58416

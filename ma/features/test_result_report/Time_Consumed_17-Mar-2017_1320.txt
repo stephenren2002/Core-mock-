@@ -1,0 +1,2 @@
+50.24|04_sa_04_create_invitation_template|I am logging in
+14.71|04_sa_04_create_invitation_template|Create invitation template

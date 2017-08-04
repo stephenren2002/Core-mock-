@@ -1,0 +1,2 @@
+52.56|02_002_add_folder|Scenario: I am logging in the application and launching inside Hope page
+45.12|02_002_add_folder|Add a folder

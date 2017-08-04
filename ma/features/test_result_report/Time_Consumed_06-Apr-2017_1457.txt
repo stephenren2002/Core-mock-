@@ -1,0 +1,2 @@
+68.1|02_005a_replace_pl_with_fol|Scenario: I am logging in the application and launching inside Hope page
+42.97|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Hamburger icon

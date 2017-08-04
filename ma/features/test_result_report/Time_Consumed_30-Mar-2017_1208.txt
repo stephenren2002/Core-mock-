@@ -1,0 +1,4 @@
+61.51|04_sa_08_email_template|I am logging in
+30.79|04_sa_08_email_template|Edit Email template validation
+30.71|04_sa_08_email_template|Delete legalese validation
+30.64|04_sa_08_email_template|Create legalese validation

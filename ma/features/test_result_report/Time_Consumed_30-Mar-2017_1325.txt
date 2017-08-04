@@ -1,0 +1,11 @@
+44.15|05_ug_004_edit_draft_question|Edit drafted question and save
+42.41|05_ug_002_ask_attachment|Ask question with attachment
+37.1|00_01_login_page|Login the Datasite application as Site Admin
+36.57|05_ug_004_edit_draft_question|Edit drafted question and submit
+36.55|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+35.06|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+31.48|05_ug_003_draft_question|Save question draft
+20.53|05_ug_001_ask|Ask a question
+15.57|00_02_project_select|
+2.03|05_ug_005_needsapproval_question|Submit for Approval question
+2.03|05_ug_004_edit_draft_question|Drafted question and submit

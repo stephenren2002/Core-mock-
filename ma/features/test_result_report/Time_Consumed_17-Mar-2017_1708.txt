@@ -1,0 +1,11 @@
+32.32|05_ug_012_needsapproval_question|Submit for Approval question
+26.85|00_01_login_page|Login the Datasite application as Site Admin
+17.87|05_ug_007_edit_draft&save_question|Edit drafted question and save
+16.15|05_ug_013_edit_SOP&Save_question|Edit Submit for Approval question and save
+15.48|00_02_project_select|
+10.71|05_ug_009_edit_draft_question|Edit drafted question and submit
+10.61|05_ug_008_edit_draft&SOP_question|Edit drafted question and submit for Approval
+10.19|05_ug_014_edit_NeedsApproval_question|Edit Needs Approval question and submit
+8.67|05_ug_011_draft&Submit_question|Edit drafted question and save
+7.71|05_ug_010_draft&SOP_question|Edit drafted question and save
+6.77|05_ug_015_editSOP&Sub_question|Edit Needs Approval question and submit

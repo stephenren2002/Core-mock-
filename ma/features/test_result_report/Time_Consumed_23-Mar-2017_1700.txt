@@ -1,0 +1,2 @@
+51.34|02_005_replace_ph_with_doc|Scenario: I am logging in the application and launching inside Hope page
+25.45|02_005_replace_ph_with_doc|Replace placeholder with a document

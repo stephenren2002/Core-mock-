@@ -1,0 +1,2 @@
+76.91|02_010_submit_session|Scenario: I am logging in the application and launching inside Hope page
+30.33|02_010_submit_session|Submit session

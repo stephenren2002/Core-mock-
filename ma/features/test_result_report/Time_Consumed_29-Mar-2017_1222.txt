@@ -1,0 +1,8 @@
+51.26|01_001_create_project|Create project
+28.43|00_01_login_page|Login the Datasite application as Merrill user
+13.45|01_002_edit_proj_info|Edit project Primary Information
+2.18|01_005_mu_invite_site_admin|Invite Site Admin
+2.07|01_004_mu_launch_fileroom|Launch fileroom
+0.04|01_002_edit_proj_info|Edit project details
+0.04|01_002_edit_proj_info|Add project contact
+0.03|01_003_mu_add_fileroom|Merrill user creates File Room

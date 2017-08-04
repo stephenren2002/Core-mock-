@@ -1,0 +1,6 @@
+27.6|00_01_login_page|Login the Datasite application as Site Admin
+24.08|05_ug_001_ask|Ask a question
+11.86|00_02_project_select|
+8.05|05_ug_002_ask_attachment|Ask question with attachment
+7.9|00_02_project_select|Navigating to Q&A Forum Tab
+3.58|05_ug_003_draft_question|Save question draft

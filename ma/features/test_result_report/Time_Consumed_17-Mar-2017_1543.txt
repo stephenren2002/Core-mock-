@@ -1,0 +1,67 @@
+83.17|02_002_add_folder|Add a folder
+79.55|02_004_add_placeholder|Add a placeholder
+64.1|02_005_replace_ph_with_doc|Replace placeholder with a document
+62.46|02_003_edit_folder_title|Edit folder title
+46.32|03_001_01_add_role|Add UG Role
+43.88|02_008_reorder_index|Reorder Index
+39.49|02_006_set_fileroom_security|Change fileroom security
+37.6|02_010_submit_session|Submit session
+36.98|03_001_02_edit_role|Edit UG Role
+35.94|03_002_01_add_team|Add Team
+35.84|02_009_upload_through_HTML|i am uploading through HTML uploader
+35.09|03_002_02_edit_teamname|Edit Team
+30.49|03_002_02_edit_teamname|Editing the Team with, Examples (#2)
+30.38|03_001_02_edit_role|Muliple edit, Examples (#3)
+30.37|03_002_02_edit_teamname|Editing the Team with, Examples (#1)
+30.33|03_001_02_edit_role|Muliple edit, Examples (#2)
+30.33|03_001_02_edit_role|Muliple edit, Examples (#4)
+30.29|02_011_approve_session|Approve Session
+30.27|03_001_02_edit_role|Muliple edit, Examples (#1)
+30.26|02_012_delete_doc|Delete a document
+30.17|02_013_copy_document|copy document folder and placeholder
+26.94|00_01_login_page|Login the Datasite application as Site Admin
+16.53|03_002_02_edit_teamname|Editing the Team with, Examples (#3)
+16.48|00_02_project_select|
+14.97|02_001_sa_add_fileroom|Add new fileroom
+13.26|02_007_security_report|Run security report
+12.95|03_001_04_add_watermark|Watermark a role
+11.63|03_001_03_enable_qa_admin|Enable Q&A forum for Admin
+0.04|03_004_01_invite_user|Invite User
+0.04|04_sa_04_create_invitation_template|Create invitation template
+0.04|03_003_01_add_community|Add Community
+0.04|03_003_02_edit_community|Edit Community
+0.03|04_sa_01_enable_doc_alert_details|Enable details in new document alerts
+0.03|03_004_05_reenable_user|I am logging in
+0.03|03_004_03_disable_ug_user|Disable User
+0.03|03_004_02_register_user|Register User
+0.03|04_sa_02_edit_settings|Edit Project Settings
+0.03|03_004_05_reenable_user|Reactivate User
+0.03|04_sa_05_edit_invitation_template|Edit invitation template
+0.03|03_004_07_edit_user|Scenario: I am logging in the application and launching inside Hope page
+0.03|03_004_07_edit_user|Edit User's Role
+0.03|07_01_001_activity_by_date|Run Activity by Date report
+0.03|04_sa_06_legalese|Create legalese validation
+0.03|03_004_10_view_email_history|View Email History
+0.03|04_sa_06_legalese|Edit legalese validation
+0.03|03_004_09_view_login_history|View Login History
+0.03|03_004_06_confirm_reactivation|Confirm reactivation
+0.03|06_02_001_add_favorite|Add to Favorites
+0.03|06_01_001_access_new_docs|Access New Documents
+0.03|06_03_002_view_document|View document
+0.03|04_sa_06_legalese|validate duplicate legalese
+0.03|04_sa_03_add_logo|Add Logo
+0.03|06_03_004_filter_view_index|Filter View Index report 58416
+0.03|06_04_001_persistent_search|Search from persistent search box
+0.03|04_sa_06_legalese|validate History of legalese
+0.03|04_sa_06_legalese|Delete legalese validation
+0.03|03_004_04_confirm_deactivation|Confirm deactivation
+0.03|06_01_002_viewer_search|Search from viewer
+0.03|06_03_001_view_index|Run View Index
+0.03|07_02_002_printer_friendly|Printer Friendly Activity Timeline
+0.03|06_03_003_open_doc_view_index|Open doc from View Index
+0.03|03_002_02_edit_teamname|Editing the Team with, Examples (#4)
+0.03|03_004_08_view_user_details|View user details
+0.03|03_101_navigate_nxt_tab|I am navigating to User Tab
+0.03|07_02_001_activity_timeline|Activity Timeline report
+0.03|07_03_001_user_detail|Run User Detail report
+0.02|02_101_navigate_nxt_tab|I am navigating to User Tab

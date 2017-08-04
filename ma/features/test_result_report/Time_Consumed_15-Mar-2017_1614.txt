@@ -1,0 +1,2 @@
+47.33|02_013_copy_document|Scenario: I am logging in the application and launching inside Hope page
+30.06|02_013_copy_document|copy document folder and placeholder

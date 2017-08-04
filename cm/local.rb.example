@@ -1,0 +1,33 @@
+# example local config file for running tests
+#copy to local.rb to run with your info.
+
+CAPYBARA_CONFIG = {
+    :app_host => "http://dev1:8080/ds/r/ds"
+}
+
+DB = {
+    :audit_user => {
+        :username => 'dsaudit',
+        :pw => 'dsaudit'
+    }
+}
+
+URIS = {
+    :it_tools_uri => "http://admin:admin@dev1:8080/ds/service/internal/script",
+    :node_browser_uri => "http://admin:admin@dev1:8080/ds/service/enterprise/admin/admin-nodebrowser"
+}
+
+USERS = {
+    :merrill_pm => {
+        :login => "seluser",
+        :pw => "Seluser13"
+    },
+    :account_services => {
+        :login => "madmin",
+        :pw => "Madmin13"
+    },
+    :it_admin => {
+        :login => "kaltepe",
+        :pw => "Yellow07"
+    }
+}

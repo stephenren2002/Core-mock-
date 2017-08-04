@@ -1,0 +1,12 @@
+\.idea
+Gemfile.lock
+cm/\.DS_Store
+cm/.byebug_history
+
+tools/host/\.vagrant/**
+cm/features/support/screenshot\.png
+
+
+*.iml
+
+cm/local.rb

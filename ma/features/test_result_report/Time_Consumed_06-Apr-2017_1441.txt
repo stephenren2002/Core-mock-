@@ -1,0 +1,42 @@
+67.8|02_005a_replace_pl_with_fol|Scenario: I am logging in the application and launching inside Hope page
+40.53|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Hamburger icon
+28.72|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Green Bar
+53.2|05_ug_001_ask|Ask a question
+44.29|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+38.44|05_ug_004_edit_draft_question|Edit drafted question and save
+37.95|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+37.82|06_03_003_open_doc_view_index|Open doc from View Index
+37.8|00_01_login_page|Login the Datasite application as Site Admin
+35.29|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit
+34.98|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+34.94|05_ug_004_edit_draft_question|Edit drafted question and submit
+34.86|05_ug_004_edit_draft_question|Drafted question and submit
+34.16|05_ug_005_needsapproval_question|Submit for Approval question
+32.83|06_01_001_access_new_docs|Access New Documents
+30.45|05_ug_003_draft_question|Save question draft
+30.36|05_ug_002_ask_attachment|Ask question with attachment
+30.15|06_02_001_add_favorite|Add to Favorites
+30.11|06_03_002_view_document|View document
+30.11|06_01_002_viewer_search|Search from viewer
+24.03|06_04_001_persistent_search|Search from persistent search box
+19.46|00_02_project_select|
+17.0|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+15.17|06_03_004_filter_view_index|Filter View Index report 58416
+13.87|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+13.84|05_ug_007_forumlink|Questions Answered Today link in Q&A forum
+13.82|05_ug_007_forumlink|Total Questions Needs Approval link in Q&A forum
+13.81|05_ug_007_forumlink|Questions Submitted Today link in Q&A forum
+13.8|05_ug_007_forumlink|Questions Drafting Today link in Q&A forum
+13.76|05_ug_007_forumlink|Total Questions Answered link in Q&A forum
+13.76|05_ug_007_forumlink|Total Questions Submitted link in Q&A forum
+13.62|05_ug_007_forumlink|Questions Needs Approval Today link in Q&A forum
+12.74|05_ug_007_forumlink|Toal Questions Asked Today link in Q&A forum
+9.87|05_ug_008_filtering|Category Filter in Q&A forum
+9.71|05_ug_008_filtering|Low Priority Filter in Q&A forum
+9.04|05_ug_008_filtering|Questions Submitted Filter in Q&A forum
+7.8|06_03_001_view_index|Run View Index
+7.64|05_ug_008_filtering|Questions Answered Filter in Q&A forum
+7.62|05_ug_008_filtering|High Priority Filter in Q&A forum
+5.62|05_ug_008_filtering|Medium Priority Filter in Q&A forum
+5.61|05_ug_008_filtering|Questions Drafting Filter in Q&A forum
+5.48|05_ug_008_filtering|Questions Needs Approval Filter in Q&A forum

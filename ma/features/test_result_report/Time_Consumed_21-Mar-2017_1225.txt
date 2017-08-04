@@ -1,0 +1,32 @@
+36.73|05_ug_004_edit_draft_question|Drafted question and submit
+35.35|05_ug_004_edit_draft_question|Edit drafted question and save
+35.3|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+33.31|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+33.19|05_ug_007_forumlink|Total Questions Answered link in Q&A forum
+33.18|05_ug_007_forumlink|Total Questions Needs Approval link in Q&A forum
+33.16|05_ug_007_forumlink|Total Questions Submitted link in Q&A forum
+33.15|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+32.21|05_ug_007_forumlink|Questions Drafting Today link in Q&A forum
+32.2|05_ug_007_forumlink|Questions Submitted Today link in Q&A forum
+32.19|05_ug_007_forumlink|Toal Questions Asked Today link in Q&A forum
+32.17|05_ug_007_forumlink|Questions Needs Approval Today link in Q&A forum
+32.14|05_ug_007_forumlink|Questions Answered Today link in Q&A forum
+30.97|05_ug_003_draft_question|Save question draft
+30.93|05_ug_005_needsapproval_question|Submit for Approval question
+30.56|05_ug_008_filtering|Low Priority Filter in Q&A forum
+30.51|05_ug_008_filtering|Category Filter in Q&A forum
+30.45|05_ug_008_filtering|Questions Submitted Filter in Q&A forum
+30.34|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+30.3|05_ug_008_filtering|Medium Priority Filter in Q&A forum
+30.29|05_ug_008_filtering|High Priority Filter in Q&A forum
+30.22|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit
+30.22|05_ug_008_filtering|Questions Needs Approval Filter in Q&A forum
+30.22|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+30.21|05_ug_008_filtering|Questions Drafting Filter in Q&A forum
+30.2|05_ug_008_filtering|Questions Answered Filter in Q&A forum
+29.23|00_01_login_page|Login the Datasite application as Site Admin
+16.54|00_02_project_select|Navigating to Q&A Forum Tab
+6.71|05_ug_001_ask|Ask a question
+6.39|05_ug_004_edit_draft_question|Edit drafted question and submit
+5.61|00_02_project_select|
+2.21|05_ug_002_ask_attachment|Ask question with attachment

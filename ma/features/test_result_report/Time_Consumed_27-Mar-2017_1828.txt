@@ -1,0 +1,4 @@
+54.71|02_005b_replace_doc_with_doc|Scenario: I am logging in the application and launching inside Hope page
+37.11|02_005b_replace_doc_with_doc|Replace placeholder with a document by Green Bar
+36.81|02_005b_replace_doc_with_doc|Replace placeholder with a document by Hamburger icon
+34.99|02_005b_replace_doc_with_doc|Replace placeholder with a document by Right Click

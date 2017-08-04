@@ -1,0 +1,16 @@
+30.3|00_02_project_select|
+30.26|00_02_project_select|Navigating to Q&A Forum Tab
+27.93|05_ug_001_ask|Ask a question
+27.48|00_01_login_page|Login the Datasite application as Site Admin
+5.04|05_ug_007_forumlink|Total Questions Drafting link in Q&A forum
+0.04|05_ug_007_forumlink|Total Questions Asked link in Q&A forum
+0.04|05_ug_004_edit_draft_question|Edit drafted question and save
+0.03|05_ug_002_ask_attachment|Ask question with attachment
+0.03|05_ug_005_needsapproval_question|Submit for Approval question
+0.03|05_ug_004_edit_draft_question|Drafted question and submit for Approval
+0.03|05_ug_003_draft_question|Save question draft
+0.03|05_ug_004_edit_draft_question|Edit drafted question and submit for Approval
+0.03|05_ug_004_edit_draft_question|Edit drafted question and submit
+0.03|05_ug_006_edit_NeedsApproval_question|Edit Submit for Approval question and save
+0.03|05_ug_006_edit_NeedsApproval_question|Edit Needs Approval question and submit
+0.03|05_ug_004_edit_draft_question|Drafted question and submit

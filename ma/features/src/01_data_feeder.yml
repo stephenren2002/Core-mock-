@@ -1,0 +1,81 @@
+#########################################################################################################
+# File : All Feature Files                                                                              #
+# Author : Jagan                            Created Date : 30th Nov 2016                                #
+# Modified Author : -                       Modified Date : -                                           #
+# Info :                                                                                                #
+#########################################################################################################
+
+#<**************************Variables Group***************************************>
+
+#<-----------------------------Index---------------------------------------------->
+file1name: Placeholder1 replaced with test_pdf
+
+searchTerm: political
+#<---------------------------Q & A Forum------------------------------------------>
+questiontext1: I am asking Question1
+questiontext2: I am asking Question2
+draftquestion1: This Question has been drafted
+draftqustedit1: This Question has been edited and saved
+draftqustedit2: This Question has been edited and submitted
+NeedsApproval1: This Question has been submitted for admin approval
+NeedsApprovaledited1: This Question has been submitted for admin approval and it has been edited and submitted
+NeedsApprovaledited2: This Question has been submitted for admin approval and it has been edited and saved
+answertext1: Answering1 for Question
+answertext2: Verfied
+answertext3: Please see this document.
+
+#<-------------------------Content Manager---------------------------------------->
+fileroom1: FileRoom1
+fileroom2: FileRoom2
+fileroom3: FileRoom3
+fileroom4: FileRoom4
+fileroom5: FileRoom5
+
+folder1: Folder1
+folder2: Folder2
+folder3: Folder3
+folder4: Folder4
+folder5: Folder5
+editedflder5: Edited Folder5
+
+placeholder1: Placeholder1
+placeholder2: Placeholder2
+placeholder3: Placeholder3
+placeholder4: Placeholder4
+placeholder5: Placeholder5
+placeholder6: Placeholder6
+placeholder7: Placeholder7
+
+
+
+
+
+
+
+
+replaceddoc3title: Placeholder1 replaced with History
+
+#<-------------------------Users---------------------------------------->
+
+ugrole1: UG_Role1
+ugrole2: UG_Role2
+ugdefrole: User Group
+
+sadefrole: Site Admin
+
+
+team1: Team1
+team2: Team2
+
+community1: Community1
+community2: Community2
+#<----------------------------Reports------------------------------------------>
+#<----------------------------Settings------------------------------------------>
+legalese1: I am being granted access to the information contained on this site in order to review certain information of Sample Company or their affiliates. I understand that my access to this site is subject to the following conditions.
+
+
+Test:           1.	All of the information contained on this site is considered confidential, and is subject to the Confidentiality Agreement entered into between [projectcompany]and the company that I represent. I will maintain the information in confidence and will not disclose any of the information to others except as expressly permitted by the Confidentiality Agreement.
+           2.	I will not attempt to download, scan, copy, print or otherwise capture any of the information contained on the site, except that I may view, print or download information for which the view, print or download capability has been enabled as indicated by the site index. I will not attempt to circumvent any of the security features of the site, and will not enable or allow others to access the site using my authorization to the site.
+           3.	The information on this site has been prepared to assist interested parties in making their own evaluation of a prospective transaction with [projectcompany], and [projectcompany] does not represent the information as being all-inclusive or to contain all information that may be desirable or required in order to properly evaluate a potential transaction.
+           4.	I understand that [projectcompany] is making no representations or warranties, express or implied, as to the accuracy or completeness of the information, and that [projectcompany] will have no liability with respect to any use or reliance upon any of the information.
+           By clicking on the "I Accept" button below, I acknowledge that I have read, understand, and agree to the above conditions.

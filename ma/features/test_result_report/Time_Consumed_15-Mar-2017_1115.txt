@@ -1,0 +1,40 @@
+55.74|00_02_project_select|
+39.73|05_ug_002_ask_attachment|Ask question with attachment
+29.59|06_01_002_viewer_search|Search from viewer
+29.21|00_01_login_page|Login the Datasite application as Site Admin
+25.77|05_ug_001_ask|Ask a question
+25.71|05_ug_007_edit_draft&save_question|Edit drafted question and save
+24.77|05_ug_012_needsapproval_question|Submit for Approval question
+23.32|05_ug_003_draft_question|Save question draft
+19.17|06_04_001_persistent_search|Search from persistent search box
+18.15|05_ug_016_forumlink|Forum link in Q&A forum
+17.84|06_03_003_open_doc_view_index|Open doc from View Index
+17.22|05_ug_013_edit_SOP&Save_question|Edit Submit for Approval question and save
+15.38|06_03_002_view_document|View document
+13.83|05_ug_024_tqslink|Forum link in Q&A forum
+13.45|05_ug_018_ntlink|Forum link in Q&A forum
+13.44|05_ug_023_tqnlink|Forum link in Q&A forum
+13.34|05_ug_022_tqdlink|Forum link in Q&A forum
+13.23|05_ug_025_tqalink|Forum link in Q&A forum
+12.79|05_ug_020_atlink|Forum link in Q&A forum
+12.59|05_ug_019_stlink|Forum link in Q&A forum
+12.3|05_ug_017_dtlink|Forum link in Q&A forum
+11.96|05_ug_021_tqalink|Forum link in Q&A forum
+10.36|05_ug_008_edit_draft&SOP_question|Edit drafted question and submit for Approval
+9.7|06_02_001_add_favorite|Add to Favorites
+9.68|05_ug_009_edit_draft_question|Edit drafted question and submit
+9.42|05_ug_014_edit_NeedsApproval_question|Edit Needs Approval question and submit
+6.32|05_ug_015_editSOP&Sub_question|Edit Needs Approval question and submit
+5.31|05_ug_033_categoryfilter|Filtering in Q&A forum
+5.27|05_ug_026_filtering|Filtering in Q&A forum
+5.05|05_ug_031_mediumfilter|Filtering in Q&A forum
+5.02|06_03_004_filter_view_index|Filter View Index report 58416
+4.78|05_ug_032_highfilter|Filtering in Q&A forum
+4.67|05_ug_030_lowfilter|Filtering in Q&A forum
+4.67|05_ug_029_answerfilter|Filtering in Q&A forum
+4.63|05_ug_010_draft&SOP_question|Edit drafted question and save
+4.6|05_ug_011_draft&Submit_question|Edit drafted question and save
+4.58|05_ug_028_needsfilter|Filtering in Q&A forum
+4.56|05_ug_027_draftfilter|Filtering in Q&A forum
+3.04|06_01_001_access_new_docs|Access New Documents
+2.36|06_03_001_view_index|Run View Index

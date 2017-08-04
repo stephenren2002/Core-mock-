@@ -1,0 +1,5 @@
+30.33|02_002_add_folder|Add a folder
+30.29|02_001_sa_add_fileroom|Add new fileroom
+27.3|00_01_login_page|Login the Datasite application as Site Admin
+14.86|00_02_project_select|
+9.16|02_003_edit_folder_title|Edit folder title

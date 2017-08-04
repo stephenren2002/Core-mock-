@@ -1,0 +1,34 @@
+#########################################################################################################
+# File : All Feature Files                                                                              #
+# Author : Jagan                            Created Date : 30th Nov 2016                                #
+# Modified Author : -                       Modified Date : -                                           #
+# Info :                                                                                                #
+#########################################################################################################
+
+#<-------------------------Config Set Up----------------------------------------->
+  environment: stage #E.g: stage,testb,prod,stage2
+  browser_Launch: firefox #E.g: ie,firefox,chrome
+  datacenter: US #E.g: US,EU,AP
+  newproject: YES #E.g: YES,NO
+  Teridion: NO #E.g: YES,NO
+#<-------------------------Merrill User Credentials------------------------------->
+  muusername: dsv6automation #109115
+  mupassword: DataSite5 #Jira2016
+#<-------------------------Site Admin Credentials--------------------------------->
+  sausername: dsv6.automation@gmail.com #merrillusers+1@gmail.com
+  sapassword: DataSite6 #Minet2016
+
+#<-------------------------User Group Credentials--------------------------------->
+  ugusername: dsv6.automation+user@gmail.com #merrillusers+101@gmail.com
+  ugpassword: DataSite4 #Minet2016
+
+  #<-------------------------Gmail Credentials--------------------------------->
+  gmailusername: dsv6.automation@gmail.com
+  gmailpassword: DataSite1
+
+#<-------------------------Environment url---------------------------------------->
+  stage: http://ds6-stage-gdw.datasite.com/
+  stage2: https://ds-stage2-gdw.merrillcorp.com/
+  testb:  https://ds-testb-gdw.adminsys.mrll.com/dashboard/
+  prod:  https://global.merrillcorp.com/
+

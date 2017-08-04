@@ -1,0 +1,4 @@
+54.01|02_005a_replace_pl_with_fol|Scenario: I am logging in the application and launching inside Hope page
+39.08|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Green Bar
+28.78|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Right Click
+23.67|02_005a_replace_pl_with_fol|Replace placeholder with Folder by Hamburger icon

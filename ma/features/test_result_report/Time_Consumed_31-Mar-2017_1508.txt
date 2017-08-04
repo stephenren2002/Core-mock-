@@ -1,0 +1,5 @@
+68.46|04_sa_03_logo|I am logging in
+9.29|04_sa_03_logo|Delete Logo 35492
+7.84|04_sa_03_logo|Add Logo
+2.58|04_sa_03_logo|Remove Logo 35491
+30.13|04_sa_06_legalese|Preview legalese validation

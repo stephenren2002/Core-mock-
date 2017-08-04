@@ -1,0 +1,2 @@
+64.07|02_011_approve_session|Scenario: I am logging in the application and launching inside Hope page
+30.45|02_011_approve_session|Approve Session
